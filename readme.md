@@ -8,6 +8,8 @@ It currently runs on iPhone and iPad, a Mac and Apple TV version are planned ([s
 
 For now, plappa is in a closed TestFlight beta. The public release is set for early 2024.
 
+![Showcase of plappa ui](images/Thumb-4.webp)
+
 ## About
 
 plappa requires a Jellyfin Server to work. If you don't know Jellyfin and would like to learn more, check out their [website](https://jellyfin.org) or [GitHub repo](https://github.com/jellyfin/jellyfin).
