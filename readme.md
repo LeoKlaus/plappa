@@ -22,7 +22,7 @@ I always test plappa using the [most common organization scheme for books](https
 
 ### Metadata
 
-Most metadata will be taken from Jellyfin, plappa additionally reads the `composer` field of the file metadata for the narrator information.
+Most metadata will be taken from Jellyfin, plappa additionally reads the `composer` field for the narrator name and (if applicable) chapters from the file metadata.
 
 ## Roadmap
 
