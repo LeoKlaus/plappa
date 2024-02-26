@@ -1,6 +1,6 @@
 # plappa
 
-plappa is an audiobook player/client for [Jellyfin, the free software media system](https://jellyfin.org), written in Swift/SwiftUI.
+plappa is an audiobook player/client for [Jellyfin, the free software media system](https://jellyfin.org) and [AudioBookShelf](https://www.audiobookshelf.org/), written in Swift/SwiftUI.
 
 Apart from playing audiobooks, plappa also syncs playback status via iCloud and allows you to download audiobooks for offline listening.
 
@@ -12,9 +12,9 @@ For now, plappa is in a closed TestFlight beta. The public release is set for ea
 
 ## About
 
-plappa requires a Jellyfin Server to work. If you don't know Jellyfin and would like to learn more, check out their [website](https://jellyfin.org) or [GitHub repo](https://github.com/jellyfin/jellyfin).
+plappa requires a Jellyfin or AudioBookShelf Server to work. If you don't know Jellyfin or AudioBookShelf and would like to learn more, check out both at [Jellyfin website](https://jellyfin.org) or [Jellyfin GitHub repo](https://github.com/jellyfin/jellyfin) and [AudioBookShelf website](https://www.audiobookshelf.org/) or [AudioBookShelf GitHub repo](https://github.com/advplyr/audiobookshelf).
 
-### Folder structure and formats
+### Folder structure and formats for Jellyfin
 
 plappa should be able to handle all common audio file formats, but is built for and tested mainly with MP3 and M4B files.
 
@@ -22,18 +22,18 @@ I always test plappa using the [most common organization scheme for books](https
 
 ### Metadata
 
-Most metadata will be taken from Jellyfin, plappa additionally reads the `composer` field for the narrator name and (if applicable) chapters from the file metadata.
+Most metadata will be taken from Jellyfin/AudioBookShelf, plappa additionally reads the `composer` field for the narrator name and (if applicable) chapters from the file metadata.
 
 ## Roadmap
 
 You can see the full roadmap in the [plappa project](https://github.com/users/LeoKlaus/projects/7/views/2), the short version is:
 
 - [x] iOS App with all basic features
-- [ ] Carplay support
+- [x] Carplay support (WIP)
 - [ ] Apple Watch App
 - [ ] Mac App
 - [ ] Apple TV App
-- [ ] Support for [AudioBookShelf servers](https://www.audiobookshelf.org/)
+- [x] Support for [AudioBookShelf servers](https://www.audiobookshelf.org/) (WIP)
 
 
 ## Feedback
