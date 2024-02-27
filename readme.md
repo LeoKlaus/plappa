@@ -45,4 +45,4 @@ Follow the guidelines for creating an issue and provide as much information as p
 
 ### Feature requests
 
-Feature requests are managed in [the discussion section of this repo](https://github.com/LeoKlaus/plappa/discussions). You can create feature requests and vote on other ideas [here](https://github.com/LeoKlaus/Paperparrot/discussions/new/choose). Please check if a similar feature has been requested before and vote on that instead of creating a duplicate.
+Feature requests are managed in [the discussion section of this repo](https://github.com/LeoKlaus/plappa/discussions). You can create feature requests and vote on other ideas [here](https://github.com/LeoKlaus/plappa/discussions/new/choose). Please check if a similar feature has been requested before and vote on that instead of creating a duplicate.
