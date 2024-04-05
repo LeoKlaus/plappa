@@ -1,12 +1,12 @@
 # plappa
 
 plappa is an audiobook player/client for [Jellyfin, the free software media system](https://jellyfin.org) and [AudioBookShelf](https://www.audiobookshelf.org/), written in Swift/SwiftUI.
-
+<br><a target="_blank" href='https://apps.apple.com/us/app/plappa/id6475201956'>
+    <img alt='Get plappa on the App Store' src='images/AppStoreBadge.svg' height="60" />
+</a><br/>
 Apart from playing audiobooks, plappa also syncs playback status via iCloud and allows you to download audiobooks for offline listening.
 
 It currently runs on iPhone and iPad, a Mac and Apple TV version are planned ([see the roadmap](#roadmap)).
-
-For now, plappa is in a closed TestFlight beta. The public release is set for early 2024.
 
 ![Showcase of plappa ui](images/Thumb-4.webp)
 
