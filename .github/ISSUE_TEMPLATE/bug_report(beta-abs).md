@@ -2,7 +2,7 @@
 name: Bug report (2.0 beta) (Audiobookshelf server)
 about: Create a report for the plappa 2.0 beta (used with ABS)
 title: "[BUG][2.0] "
-labels: ["bug", "2.0"]
+labels: ["bug", "2.0", "Audiobookshelf"]
 assignees: LeoKlaus
 
 ---
