@@ -30,7 +30,7 @@ You can see the full roadmap in the [plappa project](https://github.com/users/Le
 
 - [x] iOS App with all basic features
 - [x] Carplay support (WIP)
-- [ ] Apple Watch App
+- [x] Apple Watch App
 - [ ] Mac App
 - [ ] Apple TV App
 - [x] Support for [AudioBookShelf servers](https://www.audiobookshelf.org/) (WIP)
